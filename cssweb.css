@@ -1,0 +1,28 @@
+
+.header{
+    display: flex;
+    font-size: 30px;
+    align-content: center;
+}
+
+.p1{
+    color: #ff034d;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    width:  600px;
+    height: auto;
+}
+
+.p2{
+
+    width:  600px;
+    height: auto;
+    color: rgb(64, 224, 208);
+    font-weight: bold;
+}
+.raw{
+    width: 600px;
+}
+.name{
+    text-transform: capitalize;
+}
